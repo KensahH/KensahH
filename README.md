@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**KensahH/KensahH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on something cool...
+- 🌱 I’m currently learning nodejs..
+- 👯 I’m looking to collaborate on youtube and with organizations..
+- 🤔 I’m looking for help with integrating AI models to web applications...
+- 💬 Ask me about journey so far...
+- 📫 How to reach me: github..
+- 😄 Pronouns: she/her...
+- ⚡ Fun fact: I'am scared of cats...
+-->
